@@ -1,1 +1,7 @@
 /finetuned_cs2_roberta
+saved_cs2_roberta_model/model.safetensors
+CS2Review_clean_predictions.csv
+CS2Review_clean.csv
+cs2_full_predictions.csv
+cs2_10k_predictions.csv
+.vscode/settings.json
